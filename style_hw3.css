@@ -1,0 +1,53 @@
+body {
+    font-family: Georgia, serif;
+    line-height: 1.5;
+    margin: 20px;
+    background-color: #fbddfb;
+    color: #333;
+}
+
+.center-link {
+    text-align: center;
+}
+
+.center-link-contact {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    color: #444;
+}
+
+h2 {
+    text-align: center;
+    color: #444;
+}
+
+a {
+    color: #1a73e8;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+#main {
+    margin: 20px 0;
+}
+
+ul {
+    margin: 10px 0 20px 20px;
+}
+
+.gallery {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
+
+.gallery img {
+    width: 300px;
+    border-radius: 5px;
+}
